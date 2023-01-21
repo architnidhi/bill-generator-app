@@ -1,0 +1,76 @@
+
+.select-plan-div {
+    width: 44%;
+    height: 86%;
+    margin-top: 8vh;
+}
+
+.select-plan-Htext {
+    width: 318px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 28px;
+    letter-spacing: 0.105em;
+    color: #04285A;
+}
+
+.select-plan-Stext {
+    height: 16px;
+    width: 21rem;
+}
+
+.main-card {
+    height: 13rem;
+    width: 121px;
+    border-radius: 5px;
+    line-height: 32px;
+    cursor: pointer;
+}
+
+.plan-icon {
+    width: 39px;
+    height: 39px;
+    left: 639px;
+    top: 172px;
+    border-radius: 50px;
+    text-align: center;   
+}
+
+.gamepad {
+    background-color: #1F1D7F;
+    color: white;
+}
+
+.flat-pad {
+    background-color: #8D3C41;
+    color: white;
+}
+
+.joy-stick {
+    background-color: #A1572C;
+    color: white;
+}
+
+.card-body {
+    margin-top: 15px;
+}
+
+.text-keeper {
+    margin-top: 8vh;
+}
+
+.sec-div {
+    position: relative;
+    margin-top: 7vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.toggle-div {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D1D3DE;
+    border-radius: 9px;
+}

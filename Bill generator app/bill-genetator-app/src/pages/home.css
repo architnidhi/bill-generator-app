@@ -1,0 +1,155 @@
+
+.home-div {
+    width: 70%;
+    height: 33rem;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 13vh;
+    border-radius: 15px;
+}
+
+
+/* Left side bar */
+
+.leftSide-div {
+    position: relative;
+    padding: 25px;
+    right: 10rem;
+    width: 245px;
+    height: 500px;
+    margin-top: 13px;
+    border-radius: 7px;
+    background-image: url('../images/bg-image.jpeg');
+}
+
+.option-num-one {
+    margin: 0px;
+}
+
+.option-desc {
+    display: flex;
+    flex-direction: column;
+}
+
+.num {
+    width: 28px;
+    height: 28px;
+    left: 29px;
+    top: 35px;
+    position: absolute;
+    background: #483EFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 50px;
+    text-align: center;
+    color: white;
+}
+
+.steps {
+    position: absolute;
+    width: 34px;
+    height: 11px;
+    left: 71px;
+    top: 37px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 13px;
+    letter-spacing: -0.045em;
+    color: rgba(255, 255, 255, 0.46);
+}
+
+.desc {
+    position: absolute;
+    width: 82px;
+    height: 12px;
+    left: 72px;
+    top: 51px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.09em;
+    color: #FFFFFF;
+}
+
+.num-div-two {
+    width: 28px;
+    height: 28px;
+    left: 29px;
+    top: 100px;
+    position: absolute;
+    background: #483EFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 50px;
+    text-align: center;
+    color: white;
+}
+
+.steps-div-two {
+    position: absolute;
+    width: 34px;
+    height: 11px;
+    left: 71px;
+    top: 100px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 13px;
+    letter-spacing: -0.045em;
+    color: rgba(255, 255, 255, 0.46);
+}
+
+.desc-div-two {
+    position: absolute;
+    left: 72px;
+    top: 115px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.09em;
+    color: #FFFFFF;
+}
+
+
+.num-div-three {
+    width: 28px;
+    height: 28px;
+    left: 29px;
+    top: 170px;
+    position: absolute;
+    background: #483EFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 50px;
+    text-align: center;
+    color: white;
+}
+
+.steps-div-three {
+    position: absolute;
+    width: 34px;
+    height: 11px;
+    left: 71px;
+    top: 170px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 13px;
+    letter-spacing: -0.045em;
+    color: rgba(255, 255, 255, 0.46);
+}
+
+.desc-div-three {
+    position: absolute;
+    left: 72px;
+    top: 185px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.09em;
+    color: #FFFFFF;
+}
+

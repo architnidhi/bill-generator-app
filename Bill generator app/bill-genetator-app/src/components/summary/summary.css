@@ -1,0 +1,50 @@
+
+.summary-div {
+    width: 44%;
+    height: 86%;
+    margin-top: 8vh;
+}   
+
+.summary-Htext {
+    width: 318px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 28px;
+    letter-spacing: 0.105em;
+    color: #04285A;
+}
+
+.summary-total {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.summary-pTag {
+    margin-top: 5vh;
+    height: 7px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.105em;
+    color: #04285A;
+}
+
+.summary-grandTotal {
+    width: 51px;
+    height: 8px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.105em;
+    color: #04285A;
+}
+
+.sec-div {
+    position: relative;
+    margin-top: 7vh;
+    display: flex;
+    justify-content: space-around;
+}
